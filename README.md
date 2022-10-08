@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hebun</h1>
-<h3 align="center">Application Security Engineer from a Bank</h3>
+<h1 align="left">Hi 👋, I'm Hebun</h1>
+<h3 align="left">Application Security Engineer in a bank</h3>
 
 - 🔭 I’m currently working on **a secure library made in C++ called Bari Bari No Mi**
 
