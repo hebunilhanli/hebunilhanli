@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Hebun</h1>
 <h3 align="left">Application Security Engineer in a bank</h3>
 
-- 🔭 I’m currently working on **a secure library made in C++ called Bari Bari No Mi(Private)**
+- 🔭 I’m currently working on **a secure library made in C++**
 
 - 🌱 I’m currently learning **reverse engineering, NDK and low-level exploits in mobile security.**
 
