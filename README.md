@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **reverse engineering, NDK and low-level exploits in mobile security.**
 
-- 📝 Occasionally, I publish topics that interest me at [hebunilhanli.com](hebunilhanli.com)
+- 📝 I publish topics that interest me at [hebunilhanli.com](hebunilhanli.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
